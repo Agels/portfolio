@@ -12,13 +12,13 @@ body {
 
 
 .navbar {
-   height: 85px;
-position: fixed;
-left: 0px;
-right: 0px;
-top: 0;
-z-index: 1;
-background-color:whitesmoke; 
+    height: 85px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    z-index: 1;
+    background-color:whitesmoke; 
 }
 
 .logo {
