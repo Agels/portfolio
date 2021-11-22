@@ -144,6 +144,14 @@ bottom:-120px;
   font-size: 20px;
 }
 
+.arrow-down{
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+.blog {
+    margin-top:50px; 
+}
 .home-frame-2x{
     width: 170px;
     height: 230px;
